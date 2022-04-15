@@ -1,0 +1,14 @@
+﻿  project1.cpp
+  sequence.cpp
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(62): warning C4018: '>=': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(72): warning C4018: '>=': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\twili\onedrive\desktop\cs 3100 labs\project1\sequence.cpp(177): warning C4715: 'Sequence::empty': not all control paths return a value
+  project1.vcxproj -> C:\Users\Twili\OneDrive\Desktop\CS 3100 Labs\project1\Debug\project1.exe

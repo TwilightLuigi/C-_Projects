@@ -1,0 +1,3 @@
+﻿  OrgTree.cpp
+c:\users\twili\onedrive\desktop\cs 3100 labs\project2\orgtree.cpp(133): warning C4715: 'OrgTree::leftmostChild': not all control paths return a value
+  project2.vcxproj -> C:\Users\Twili\OneDrive\Desktop\CS 3100 Labs\project2\Debug\project2.exe
